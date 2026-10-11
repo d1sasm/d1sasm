@@ -36,8 +36,8 @@ Low level developer focused on understanding software internals, binary analysis
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vorteqz7706&show_icons=true&theme=dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vorteqz7706&layout=compact&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d1sasm&show_icons=true&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1sasm&layout=compact&theme=dark&hide_border=true" height="160" />
 </p>
 
 <p align="center">
