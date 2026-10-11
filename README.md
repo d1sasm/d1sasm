@@ -4,11 +4,11 @@
 
 ## About
 
-Low-level developer focused on understanding software internals, binary analysis, and Windows system architecture.
+Low level developer focused on understanding software internals, binary analysis, and Windows system architecture.
 
 ## Focus
 
-- C++ and low-level development
+- C++ and low level development
 - Windows kernel development and internals
 - Reverse engineering and binary analysis
 - Emulation tooling and dynamic analysis
